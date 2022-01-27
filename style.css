@@ -1,0 +1,28 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: white;
+}
+header_div {
+    background-color: rgb(109, 89, 92);
+    text-decoration: rgb(151, 26, 26);
+}
+p {
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: normal;
+    font-size: large;
+}
+button {
+    font-style: italic;
+    margin-top: 10px;
+}
+copy_right_footer {
+    background-color: rgb(255, 255, 255);
+    text-decoration: rgb(121, 116, 116);
+    width: fit-content;
+    font-size: medium;
+    line-height:normal;
+    bottom: 0;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(20, 71, 50);
+}
